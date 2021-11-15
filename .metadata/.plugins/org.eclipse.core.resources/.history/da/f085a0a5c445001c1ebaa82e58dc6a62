@@ -6,8 +6,6 @@ public class MemberUI {
 		System.out.println("pull 연습");
 		
 		System.out.println("commit-push 연습1");
-		
-		System.out.println("slave branch 연습1");
 	}
 
 }
